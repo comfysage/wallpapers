@@ -9,7 +9,6 @@ I did not create any of these wallpapers. If you are the original creator and wo
 to remove your work, please let me know."""
 
 generate_file() {
-    echo "<!-- markdownlint-disable MD026 -->"
     echo "# wallpapers"
     echo "$nb_note"
 
