@@ -13,11 +13,11 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    pushd mut-ex-wallpapers
-    echo "## [mut-ex-wallpapers](https://github.com/mut-ex/wallpapers)"
-    echo "These are some of my favorite wallpapers from [mut-ex's](https://github.com/mut-ex/) collection"
+    pushd vibrant
+    echo "## vibrant"
+    echo "These include some of my favorite wallpapers from [mut-ex's](https://github.com/mut-ex/) [collection](https://github.com/mut-ex/wallpapers)."
     for filename (*.jpg(om)); do
-        printf "\n## %s\n\n![%s](mut-ex-wallpapers/%s)\n" "$filename" "$filename" "$filename"
+        printf "\n## %s\n\n![%s](vibrant/%s)\n" "$filename" "$filename" "$filename"
     done
     popd
 
