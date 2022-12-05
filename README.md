@@ -1,233 +1,184 @@
-<!-- markdownlint-disable MD026 -->
 # wallpapers
 
 ## N.B.
 
 I did not create any of these wallpapers. If you are the original creator and would like for me
 to remove your work, please let me know.
-## [mut-ex-wallpapers](https://github.com/mut-ex/wallpapers)
-These are some of my favorite wallpapers from [mut-ex's](https://github.com/mut-ex/) collection
+## vibrant
+These include some of my favorite wallpapers from [mut-ex's](https://github.com/mut-ex/) [collection](https://github.com/mut-ex/wallpapers).
+
+## beastlybird_.jpg
+
+![beastlybird_.jpg](vibrant/beastlybird_.jpg)
+
+## forestofcolors_.jpg
+
+![forestofcolors_.jpg](vibrant/forestofcolors_.jpg)
 
 ## whale.jpg
 
-![whale.jpg](mut-ex-wallpapers/whale.jpg)
+![whale.jpg](vibrant/whale.jpg)
 
 ## warriorlandscape.jpg
 
-![warriorlandscape.jpg](mut-ex-wallpapers/warriorlandscape.jpg)
+![warriorlandscape.jpg](vibrant/warriorlandscape.jpg)
 
 ## warmlandscape.jpg
 
-![warmlandscape.jpg](mut-ex-wallpapers/warmlandscape.jpg)
-
-## vividnightlandscape.jpg
-
-![vividnightlandscape.jpg](mut-ex-wallpapers/vividnightlandscape.jpg)
-
-## troubledwaters.jpg
-
-![troubledwaters.jpg](mut-ex-wallpapers/troubledwaters.jpg)
+![warmlandscape.jpg](vibrant/warmlandscape.jpg)
 
 ## tiger.jpg
 
-![tiger.jpg](mut-ex-wallpapers/tiger.jpg)
+![tiger.jpg](vibrant/tiger.jpg)
 
 ## tardistimevortex.jpg
 
-![tardistimevortex.jpg](mut-ex-wallpapers/tardistimevortex.jpg)
+![tardistimevortex.jpg](vibrant/tardistimevortex.jpg)
 
 ## sunsetpaintingsea.jpg
 
-![sunsetpaintingsea.jpg](mut-ex-wallpapers/sunsetpaintingsea.jpg)
-
-## sunsetonanalienplanet.jpg
-
-![sunsetonanalienplanet.jpg](mut-ex-wallpapers/sunsetonanalienplanet.jpg)
+![sunsetpaintingsea.jpg](vibrant/sunsetpaintingsea.jpg)
 
 ## squirrelinaforest.jpg
 
-![squirrelinaforest.jpg](mut-ex-wallpapers/squirrelinaforest.jpg)
+![squirrelinaforest.jpg](vibrant/squirrelinaforest.jpg)
 
 ## spacingout.jpg
 
-![spacingout.jpg](mut-ex-wallpapers/spacingout.jpg)
+![spacingout.jpg](vibrant/spacingout.jpg)
 
 ## skyship.jpg
 
-![skyship.jpg](mut-ex-wallpapers/skyship.jpg)
+![skyship.jpg](vibrant/skyship.jpg)
 
 ## settingsunforest.jpg
 
-![settingsunforest.jpg](mut-ex-wallpapers/settingsunforest.jpg)
-
-## serenegreen.jpg
-
-![serenegreen.jpg](mut-ex-wallpapers/serenegreen.jpg)
-
-## sereneforest.jpg
-
-![sereneforest.jpg](mut-ex-wallpapers/sereneforest.jpg)
-
-## samuraihat.jpg
-
-![samuraihat.jpg](mut-ex-wallpapers/samuraihat.jpg)
-
-## redgiant.jpg
-
-![redgiant.jpg](mut-ex-wallpapers/redgiant.jpg)
+![settingsunforest.jpg](vibrant/settingsunforest.jpg)
 
 ## prodigalsonreturns.jpg
 
-![prodigalsonreturns.jpg](mut-ex-wallpapers/prodigalsonreturns.jpg)
+![prodigalsonreturns.jpg](vibrant/prodigalsonreturns.jpg)
 
 ## outtatime.jpg
 
-![outtatime.jpg](mut-ex-wallpapers/outtatime.jpg)
-
-## mysticalbeast.jpg
-
-![mysticalbeast.jpg](mut-ex-wallpapers/mysticalbeast.jpg)
+![outtatime.jpg](vibrant/outtatime.jpg)
 
 ## moonlightblue.jpg
 
-![moonlightblue.jpg](mut-ex-wallpapers/moonlightblue.jpg)
+![moonlightblue.jpg](vibrant/moonlightblue.jpg)
 
 ## majesticphoenix.jpg
 
-![majesticphoenix.jpg](mut-ex-wallpapers/majesticphoenix.jpg)
-
-## lowpolysunset.jpg
-
-![lowpolysunset.jpg](mut-ex-wallpapers/lowpolysunset.jpg)
+![majesticphoenix.jpg](vibrant/majesticphoenix.jpg)
 
 ## listentoyourheart.jpg
 
-![listentoyourheart.jpg](mut-ex-wallpapers/listentoyourheart.jpg)
+![listentoyourheart.jpg](vibrant/listentoyourheart.jpg)
 
 ## landscapebright.jpg
 
-![landscapebright.jpg](mut-ex-wallpapers/landscapebright.jpg)
-
-## koiinapond.jpg
-
-![koiinapond.jpg](mut-ex-wallpapers/koiinapond.jpg)
+![landscapebright.jpg](vibrant/landscapebright.jpg)
 
 ## isitmyescape.jpg
 
-![isitmyescape.jpg](mut-ex-wallpapers/isitmyescape.jpg)
+![isitmyescape.jpg](vibrant/isitmyescape.jpg)
 
 ## houseontheedge.jpg
 
-![houseontheedge.jpg](mut-ex-wallpapers/houseontheedge.jpg)
+![houseontheedge.jpg](vibrant/houseontheedge.jpg)
 
 ## giantmonuments.jpg
 
-![giantmonuments.jpg](mut-ex-wallpapers/giantmonuments.jpg)
+![giantmonuments.jpg](vibrant/giantmonuments.jpg)
 
 ## futureutopia.jpg
 
-![futureutopia.jpg](mut-ex-wallpapers/futureutopia.jpg)
+![futureutopia.jpg](vibrant/futureutopia.jpg)
 
 ## forestofcolors.jpg
 
-![forestofcolors.jpg](mut-ex-wallpapers/forestofcolors.jpg)
-
-## floatingworld.jpg
-
-![floatingworld.jpg](mut-ex-wallpapers/floatingworld.jpg)
+![forestofcolors.jpg](vibrant/forestofcolors.jpg)
 
 ## firewatchguy.jpg
 
-![firewatchguy.jpg](mut-ex-wallpapers/firewatchguy.jpg)
+![firewatchguy.jpg](vibrant/firewatchguy.jpg)
 
 ## eyeofsauron.jpg
 
-![eyeofsauron.jpg](mut-ex-wallpapers/eyeofsauron.jpg)
-
-## empireinruins.jpg
-
-![empireinruins.jpg](mut-ex-wallpapers/empireinruins.jpg)
-
-## discodingo.jpg
-
-![discodingo.jpg](mut-ex-wallpapers/discodingo.jpg)
+![eyeofsauron.jpg](vibrant/eyeofsauron.jpg)
 
 ## desolatelandscape.jpg
 
-![desolatelandscape.jpg](mut-ex-wallpapers/desolatelandscape.jpg)
-
-## denseneighborhood.jpg
-
-![denseneighborhood.jpg](mut-ex-wallpapers/denseneighborhood.jpg)
+![desolatelandscape.jpg](vibrant/desolatelandscape.jpg)
 
 ## dalek.jpg
 
-![dalek.jpg](mut-ex-wallpapers/dalek.jpg)
+![dalek.jpg](vibrant/dalek.jpg)
 
 ## cyberpunkhead.jpg
 
-![cyberpunkhead.jpg](mut-ex-wallpapers/cyberpunkhead.jpg)
+![cyberpunkhead.jpg](vibrant/cyberpunkhead.jpg)
 
 ## crowhangingaroundinaforest.jpg
 
-![crowhangingaroundinaforest.jpg](mut-ex-wallpapers/crowhangingaroundinaforest.jpg)
+![crowhangingaroundinaforest.jpg](vibrant/crowhangingaroundinaforest.jpg)
 
 ## crowdedfuture.jpg
 
-![crowdedfuture.jpg](mut-ex-wallpapers/crowdedfuture.jpg)
-
-## cozysoftforrest.jpg
-
-![cozysoftforrest.jpg](mut-ex-wallpapers/cozysoftforrest.jpg)
+![crowdedfuture.jpg](vibrant/crowdedfuture.jpg)
 
 ## colorfulcurves.jpg
 
-![colorfulcurves.jpg](mut-ex-wallpapers/colorfulcurves.jpg)
+![colorfulcurves.jpg](vibrant/colorfulcurves.jpg)
 
 ## chineseneonsign.jpg
 
-![chineseneonsign.jpg](mut-ex-wallpapers/chineseneonsign.jpg)
-
-## cabininthelake.jpg
-
-![cabininthelake.jpg](mut-ex-wallpapers/cabininthelake.jpg)
+![chineseneonsign.jpg](vibrant/chineseneonsign.jpg)
 
 ## beastlybird.jpg
 
-![beastlybird.jpg](mut-ex-wallpapers/beastlybird.jpg)
+![beastlybird.jpg](vibrant/beastlybird.jpg)
 
 ## astronautshrugged.jpg
 
-![astronautshrugged.jpg](mut-ex-wallpapers/astronautshrugged.jpg)
+![astronautshrugged.jpg](vibrant/astronautshrugged.jpg)
 
 ## arcticwonderland.jpg
 
-![arcticwonderland.jpg](mut-ex-wallpapers/arcticwonderland.jpg)
+![arcticwonderland.jpg](vibrant/arcticwonderland.jpg)
 
 ## almostsetsun.jpg
 
-![almostsetsun.jpg](mut-ex-wallpapers/almostsetsun.jpg)
+![almostsetsun.jpg](vibrant/almostsetsun.jpg)
 
 ## alleyesonyou.jpg
 
-![alleyesonyou.jpg](mut-ex-wallpapers/alleyesonyou.jpg)
+![alleyesonyou.jpg](vibrant/alleyesonyou.jpg)
 
 ## abstractstrands.jpg
 
-![abstractstrands.jpg](mut-ex-wallpapers/abstractstrands.jpg)
-
-## abstractblob.jpg
-
-![abstractblob.jpg](mut-ex-wallpapers/abstractblob.jpg)
+![abstractstrands.jpg](vibrant/abstractstrands.jpg)
 
 ## abstract.jpg
 
-![abstract.jpg](mut-ex-wallpapers/abstract.jpg)
+![abstract.jpg](vibrant/abstract.jpg)
 
 ## abovethemountains.jpg
 
-![abovethemountains.jpg](mut-ex-wallpapers/abovethemountains.jpg)
+![abovethemountains.jpg](vibrant/abovethemountains.jpg)
 ## wallpapers
+
+## subway_right.JPG
+
+![subway_right.JPG](wall/subway_right.JPG)
+
+## subway_main.JPG
+
+![subway_main.JPG](wall/subway_main.JPG)
+
+## subway_left.JPG
+
+![subway_left.JPG](wall/subway_left.JPG)
 
 ## The_Great_Wave_off_Kanagawa.jpg
 
