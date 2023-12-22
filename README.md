@@ -7,9 +7,9 @@ to remove your work, please let me know.
 ## vibrant
 These include some of my favorite wallpapers from [mut-ex's](https://github.com/mut-ex/) [collection](https://github.com/mut-ex/wallpapers).
 
-## beastlybird_.jpg
+## katana-blossom.jpg
 
-![beastlybird_.jpg](vibrant/beastlybird_.jpg)
+![katana-blossom.jpg](vibrant/katana-blossom.jpg)
 
 ## forestofcolors_.jpg
 
@@ -168,9 +168,9 @@ These include some of my favorite wallpapers from [mut-ex's](https://github.com/
 ![abovethemountains.jpg](vibrant/abovethemountains.jpg)
 ## wallpapers
 
-## subway_right.JPG
+## pool-tropical.png
 
-![subway_right.JPG](wall/subway_right.JPG)
+![pool-tropical.png](wall/pool-tropical.png)
 
 ## subway_main.JPG
 
@@ -179,6 +179,10 @@ These include some of my favorite wallpapers from [mut-ex's](https://github.com/
 ## subway_left.JPG
 
 ![subway_left.JPG](wall/subway_left.JPG)
+
+## subway_right.JPG
+
+![subway_right.JPG](wall/subway_right.JPG)
 
 ## The_Great_Wave_off_Kanagawa.jpg
 
@@ -260,13 +264,9 @@ These include some of my favorite wallpapers from [mut-ex's](https://github.com/
 
 ![lofi-window.jpeg](wall/lofi-window.jpeg)
 
-## subway-purple-red.jpeg
+## subway-dawn.jpeg
 
-![subway-purple-red.jpeg](wall/subway-purple-red.jpeg)
-
-## subway-purple-dawn.jpeg
-
-![subway-purple-dawn.jpeg](wall/subway-purple-dawn.jpeg)
+![subway-dawn.jpeg](wall/subway-dawn.jpeg)
 
 ## rain-street-dog.jpeg
 
