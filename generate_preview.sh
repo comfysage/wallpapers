@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env zsh
 
 # NOTE: this script should be run from the wallpapers root directory.
 
