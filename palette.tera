@@ -1,0 +1,30 @@
+---
+whiskers:
+  version: ^2.0.0
+  matrix:
+    - flavor
+  filename: ".lutgen/palette/evergarden-{{flavor.identifier}}"
+---
+#{{red.hex}}
+#{{orange.hex}}
+#{{yellow.hex}}
+#CBD5A2
+#{{green.hex}}
+#{{aqua.hex}}
+#{{skye.hex}}
+#{{blue.hex}}
+#{{purple.hex}}
+#{{pink.hex}}
+#F0C9DF
+#{{text.hex}}
+#{{subtext1.hex}}
+#{{subtext0.hex}}
+#{{overlay2.hex}}
+#{{overlay1.hex}}
+#{{overlay0.hex}}
+#{{surface2.hex}}
+#{{surface1.hex}}
+#{{surface0.hex}}
+#{{base.hex}}
+#{{mantle.hex}}
+#{{crust.hex}}
