@@ -5,20 +5,24 @@
 p="$( realpath "$1" )"
 
 _simplify_file() {
-  item="$1"
+  item="$(realpath "$1")"
   [[ -f "$item" ]] || exit 1
   dir="$(dirname "$item")"
-    filename=$(basename -- "$item")
-    extension="${filename##*.}"
-    filename="${filename%.*}"
+  basename=$(basename -- "$item")
+  extension="${basename##*.}"
+  filename="${basename%.*}"
 
-    newf="$dir/$(rhash).${extension}"
-    while [[ -f "$newf" ]]; do
-      newf="$dir/$(rhash).${extension}"
-    done
+  newname="$(rhash -H "$item" | cut -d ' ' -f1)"
 
-    echo "$item -> $newf"
-    mv "$item" "$newf"
+  [[ "$newname" == "$filename" ]] && exit 1
+
+  newf="$dir/${newname}.${extension}"
+  # while [[ -f "$newf" ]]; do
+  #   newf="$dir/$(rhash).${extension}"
+  # done
+
+  echo "$item -> $newf"
+  mv "$item" "$newf"
 }
 
 _simplify_dir() {
@@ -30,6 +34,12 @@ _simplify_dir() {
     _simplify_file "$item"
   done
 }
+
+if ! command -v rhash 2>&1 >/dev/null
+then
+  echo "rhash could not be found"
+  exit 1
+fi
 
 [[ -d "$p" ]] && { _simplify_dir "$p"; exit 0; }
 [[ -f "$p" ]] && { _simplify_file "$p"; exit 0; }
