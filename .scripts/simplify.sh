@@ -7,7 +7,7 @@ p="$( realpath "$1" )"
 _simplify_file() {
   item="$1"
   [[ -f "$item" ]] || exit 1
-  dir="$(dirname $item)"
+  dir="$(dirname "$item")"
     filename=$(basename -- "$item")
     extension="${filename##*.}"
     filename="${filename%.*}"
@@ -26,7 +26,7 @@ _simplify_dir() {
   [[ -d "$dir" ]] || exit 1
   echo "simplifying pictures in '$dir'"
 
-  for item in $dir/*; do
+  for item in "$dir"/*; do
     _simplify_file "$item"
   done
 }

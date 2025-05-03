@@ -17,3 +17,6 @@ generate-lut: generate-palette
 
 generate +files: generate-lut
   lutgen apply --hald-clut {{ lut_file }} -d -o {{ out_dir }}/ {{files}}
+
+generate-preview:
+  cd {{ justfile_directory() }} && ./.scripts/generate_preview.sh
