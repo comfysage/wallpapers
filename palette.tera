@@ -8,14 +8,15 @@ whiskers:
 #{{red.hex}}
 #{{orange.hex}}
 #{{yellow.hex}}
-#CBD5A2
+#{{lime.hex}}
 #{{green.hex}}
 #{{aqua.hex}}
 #{{skye.hex}}
+#{{snow.hex}}
 #{{blue.hex}}
 #{{purple.hex}}
 #{{pink.hex}}
-#F0C9DF
+#{{cherry.hex}}
 #{{text.hex}}
 #{{subtext1.hex}}
 #{{subtext0.hex}}
