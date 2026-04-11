@@ -1,27 +1,27 @@
 # artemisii
 
-![A Crescent Earth.jpg](./A Crescent Earth.jpg)
+![A_Crescent_Earth.jpg](./A_Crescent_Earth.jpg)
 
-![A New View of the Moon.jpg](./A New View of the Moon.jpg)
+![A_New_View_of_the_Moon.jpg](./A_New_View_of_the_Moon.jpg)
 
-![Artemis II Total Solar Eclipse, Partial Frame.jpg](./Artemis II Total Solar Eclipse, Partial Frame.jpg)
+![Artemis_II_Total_Solar_Eclipse,_Partial_Frame.jpg](./Artemis_II_Total_Solar_Eclipse,_Partial_Frame.jpg)
 
-![Artemis II in Eclipse.jpg](./Artemis II in Eclipse.jpg)
+![Artemis_II_in_Eclipse.jpg](./Artemis_II_in_Eclipse.jpg)
 
-![Birkhoff Crater in Low-Light Detail.jpg](./Birkhoff Crater in Low-Light Detail.jpg)
+![Birkhoff_Crater_in_Low-Light_Detail.jpg](./Birkhoff_Crater_in_Low-Light_Detail.jpg)
 
-![Craters Along the Lunar Terminator.jpg](./Craters Along the Lunar Terminator.jpg)
+![Craters_Along_the_Lunar_Terminator.jpg](./Craters_Along_the_Lunar_Terminator.jpg)
 
-![Crescent Earth Over Lunar Horizon.jpg](./Crescent Earth Over Lunar Horizon.jpg)
+![Crescent_Earth_Over_Lunar_Horizon.jpg](./Crescent_Earth_Over_Lunar_Horizon.jpg)
 
-![Eclipsed: A View from Orion.jpg](./Eclipsed: A View from Orion.jpg)
+![Eclipsed:_A_View_from_Orion.jpg](./Eclipsed:_A_View_from_Orion.jpg)
 
-![Hello, World.jpg](./Hello, World.jpg)
+![Hello,_World.jpg](./Hello,_World.jpg)
 
-![Mother Earth.jpg](./Mother Earth.jpg)
+![Mother_Earth.jpg](./Mother_Earth.jpg)
 
-![Orion in the Spotlight.jpg](./Orion in the Spotlight.jpg)
+![Orion_in_the_Spotlight.jpg](./Orion_in_the_Spotlight.jpg)
 
-![Poynting and Keeler Craters on the Lunar Far Side.jpg](./Poynting and Keeler Craters on the Lunar Far Side.jpg)
+![Poynting_and_Keeler_Craters_on_the_Lunar_Far_Side.jpg](./Poynting_and_Keeler_Craters_on_the_Lunar_Far_Side.jpg)
 
-![Solar Eclipse of the Heart.jpg](./Solar Eclipse of the Heart.jpg)
+![Solar_Eclipse_of_the_Heart.jpg](./Solar_Eclipse_of_the_Heart.jpg)
